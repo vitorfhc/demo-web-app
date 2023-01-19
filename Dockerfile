@@ -1,3 +1,3 @@
 FROM nginx:stable
 
-CMD ["error"]
+# CMD ["error"]
